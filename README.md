@@ -4,7 +4,7 @@
 
 # Ansible Demo with Docker
 
-Created by Raghav Agarwal | SAP- 500108301
+Created by Adnan Rasool | SAP- 500107389
 
 This project demonstrates how to use Ansible to manage multiple Docker containers as target servers. It showcases Ansible's ability to automate server configuration and management across multiple hosts.
 
@@ -110,7 +110,7 @@ sudo apt install -y ansible openssh-client
 ![image](/assets/image1.png)
 ![image](/assets/image3.png)
 ![image](/assets/image2.png)
-![image](/assets/image21.png)
+
 
 ### 2. Create Project Directory
 
@@ -119,8 +119,6 @@ mkdir -p ~/ansible-demo
 cd ~/ansible-demo
 mkdir -p .ssh
 ```
-
-![image](/assets/image4.png)
 
 ### 3. Generate SSH Keys
 
